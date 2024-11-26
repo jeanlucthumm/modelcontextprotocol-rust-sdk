@@ -12,7 +12,7 @@ Rust SDK for the Model Context Protocol
 Rust implementation of the [Model Context Protocol](https://modelcontextprotocol.io) (MCP), providing both client and server capabilities for integrating with LLM surfaces.
 
 > [!WARNING]  
-> This is a VERY early repo. Contact me at jeanlucthumm@gmail.com if you'd like to get involved. Discord coming soon!
+> This is a VERY early repo. Open an issue or contact me at jeanlucthumm@gmail.com if you'd like to get involved. Discord coming soon!
 
 ## Overview
 
