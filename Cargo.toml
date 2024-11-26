@@ -1,0 +1,12 @@
+[package]
+name = "modelcontextprotocol-rust-sdk"
+version = "0.1.0"
+edition = "2021"
+description = "The UNofficial Rust SDK for Model Context Protocol servers and clients"
+license = "MIT"
+repository = "https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk"
+readme = "README.md"
+keywords = ["modelcontextprotocol", "mcp", "llm", "ai", "protocol"]
+categories = ["api-bindings", "development-tools"]
+
+[dependencies]
