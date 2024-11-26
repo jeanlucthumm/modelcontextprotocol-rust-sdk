@@ -1,4 +1,12 @@
 # MCP Rust SDK
+[![MIT licensed][mit-badge]][mit-url]
+[![Specification][spec-badge]][spec-url]
+
+[mit-badge]: https://img.shields.io/pypi/l/mcp.svg
+[mit-url]: https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk/blob/master/LICENSE
+[spec-badge]: https://img.shields.io/badge/spec-spec.modelcontextprotocol.io-blue.svg
+[spec-url]: https://spec.modelcontextprotocol.io
+
 Rust SDK for the Model Context Protocol
 
 Rust implementation of the [Model Context Protocol](https://modelcontextprotocol.io) (MCP), providing both client and server capabilities for integrating with LLM surfaces.
