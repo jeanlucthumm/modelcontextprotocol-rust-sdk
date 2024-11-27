@@ -10,3 +10,4 @@ keywords = ["modelcontextprotocol", "mcp", "llm", "ai", "protocol"]
 categories = ["api-bindings", "development-tools"]
 
 [dependencies]
+serde = "1.0.215"
