@@ -10,4 +10,7 @@ keywords = ["modelcontextprotocol", "mcp", "llm", "ai", "protocol"]
 categories = ["api-bindings", "development-tools"]
 
 [dependencies]
+anyhow = "1.0.93"
+jsonrpsee = {version = "0.24.7", features = ["server", "http-client", "macros", "client-ws-transport-tls"]}
+mcp_typegen = "0.1.0"
 serde = "1.0.215"
